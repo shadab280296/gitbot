@@ -1,0 +1,9 @@
+{
+  "development": {
+    "database": "taskhuman",
+    "username": "root",
+    "password": "",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}

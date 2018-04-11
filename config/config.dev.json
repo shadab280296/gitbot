@@ -1,0 +1,23 @@
+{
+    "development": {
+      "database": "taskhuman",
+      "username": "taskhuman",
+      "password": "zN2EGHBkD3pD",
+      "host": "taskhuman.cp7unsjlkrcj.us-east-2.rds.amazonaws.com",
+      "dialect": "mysql"
+    },
+    "test": {
+      "database": "taskhuman",
+      "username": "taskhuman",
+      "password": "zN2EGHBkD3pD",
+      "host": "taskhuman.cp7unsjlkrcj.us-east-2.rds.amazonaws.com",
+      "dialect": "mysql"
+    },
+    "production": {
+      "database": "taskhuman",
+      "username": "taskhuman",
+      "password": "zN2EGHBkD3pD",
+      "host": "taskhuman.cp7unsjlkrcj.us-east-2.rds.amazonaws.com",
+      "dialect": "mysql"
+    }
+  }
